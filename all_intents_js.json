@@ -1,0 +1,24 @@
+{
+	"data" : [
+	{"intent" : "greet",
+	"query" : ["Hi" , "How are you" , "Good morning"] , 
+	"responses" : ["Hi there!" , "Good morning!" , "Hey, Welcome to our restaurant"]} , 
+	{"intent" : "booking",
+	"query" : ["Can I book a table?" , "Is there some space free?" , "Are you up now?"] , 
+	"responses" : ["Yes, please come and visit." , "We are definitely looking forward to your visit" , "Yes, we are ready to serve."]} ,
+	{"intent" : "menu" , 
+	"query" : ["What on the menu?" , "Can I get the menu?" , "What food can we order"] , 
+	"responses" : ["We serve pizza, burgers and chips." , "Today we have pizza and chips along with burger" , "Pizza, burger and chips"]} , 
+	{"intent" : "schedule" , 
+	"query" : ["When are you open?" , "What are your working hours?" , "when is the restaurant serving?"] , 
+	"responses" : ["We are working between 2pm - 10pm" , "We are open between 2pm - 10pm" , "We serve between 2pm - 10pm"]} , 
+	{"intent" : "take away" , 
+	"query" : ["Do you allow take aways?" , "Can I get the food packed?" , "Is taking the food home possible?"] , 
+	"responses" : ["Sure , we allow packed food for take aways" , "Yes, you can get the food packed for take away" , "We pack the food for you for take aways."]
+	} , 
+	{"intent" : "billing" , 
+	"query" : ["How can I pay the bill?" , "What payment methods are available at your restaurant?" , "How do I pay for the meal?"] , 
+	"responses" : ["We accept cash along with credit and debit cards", "You can use credit or debit cards or you can pay in cash" , "Please pay using cards (debit or credit) or cash."]
+	}
+	]
+}
