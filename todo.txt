@@ -1,0 +1,15 @@
+User Input is a sentence i.e. a sequence of words i.e. sequential data
+That is also the model input (may it be an extrapolation, summarization, portion, or abstraction of the input?)
+Model output is one class i.e. intent of sentence
+
+(Relating to technical terminology and classification)
+
+todo: using many to one RNN 
+todo: finding a use-case instead of restaurant details
+todo: Implementing and experimenting various models and techniques to the open constraint that a user natural language command gives a response or action  
+todo: save and load models
+todo: use database 
+todo: use web-scraping
+todo: make frontend
+todo: application for and processing of multi-modal inputs or outputs
+ 
