@@ -21,3 +21,5 @@ def create_data(dt, words_list, intents_mapping):
             train.append(vector)
             target.append(intents_mapping[inte])
     return train, target
+
+
